@@ -1,0 +1,29 @@
+{
+  "name": "Technoware",
+  "description": "website for geek",
+  "main": "index.html",
+  "authors": [
+    "ATISHAY"
+  ],
+  "license": "HC",
+  "keywords": [
+    "Technoware",
+    "website",
+    "for",
+    "geek"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
